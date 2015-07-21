@@ -1,0 +1,25 @@
+<uml>
+   <greenVersion="30500"/>
+   <type>
+      <name="=JS/src<template{ConcreteAnswer.java[ConcreteAnswer"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="201"/>
+      <y="165"/>
+   </type>
+   <type>
+      <name="=JS/src<template{Template.java[Template"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="200"/>
+      <y="0"/>
+   </type>
+   <relationship>
+      <class="edu.buffalo.cse.green.relationship.generalization.GeneralizationPart"/>
+      <sourceType="=JS/src<template{ConcreteAnswer.java[ConcreteAnswer"/>
+      <targetType="=JS/src<template{Template.java[Template"/>
+      <bendpoints>
+      </bendpoints>
+   </relationship>
+</uml>
+

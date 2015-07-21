@@ -1,0 +1,39 @@
+<uml>
+   <greenVersion="30500"/>
+   <type>
+      <name="=JS/src<memento{Role.java[Role"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="12"/>
+      <y="107"/>
+   </type>
+   <type>
+      <name="=JS/src<memento{Memento.java[Memento"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="301"/>
+      <y="159"/>
+   </type>
+   <type>
+      <name="=JS/src<memento{RoleSaver.java[RoleSaver"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="531"/>
+      <y="189"/>
+   </type>
+   <type>
+      <name="=JS/src<memento{Client.java[Client"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="242"/>
+      <y="17"/>
+   </type>
+   <relationship>
+      <class="edu.buffalo.cse.green.relationship.dependency.DependencyLPart"/>
+      <sourceType="=JS/src<memento{Role.java[Role"/>
+      <targetType="=JS/src<memento{Memento.java[Memento"/>
+      <bendpoints>
+      </bendpoints>
+   </relationship>
+</uml>
+

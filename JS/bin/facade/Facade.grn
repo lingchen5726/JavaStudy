@@ -1,0 +1,39 @@
+<uml>
+   <greenVersion="30500"/>
+   <type>
+      <name="=JS/src<facade{Stock.java[Stock"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="242"/>
+      <y="243"/>
+   </type>
+   <type>
+      <name="=JS/src<facade{Realty.java[Realty"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="478"/>
+      <y="243"/>
+   </type>
+   <type>
+      <name="=JS/src<facade{Facade.java[Facade"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="357"/>
+      <y="21"/>
+   </type>
+   <relationship>
+      <class="edu.buffalo.cse.green.relationship.composition.CompositionPart"/>
+      <sourceType="=JS/src<facade{Facade.java[Facade"/>
+      <targetType="=JS/src<facade{Realty.java[Realty"/>
+      <bendpoints>
+      </bendpoints>
+   </relationship>
+   <relationship>
+      <class="edu.buffalo.cse.green.relationship.composition.CompositionPart"/>
+      <sourceType="=JS/src<facade{Facade.java[Facade"/>
+      <targetType="=JS/src<facade{Stock.java[Stock"/>
+      <bendpoints>
+      </bendpoints>
+   </relationship>
+</uml>
+

@@ -1,0 +1,46 @@
+<uml>
+   <greenVersion="30500"/>
+   <type>
+      <name="=JS/src<strategy{ConcreteStrategyB.java[ConcreteStrategyB"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="559"/>
+      <y="385"/>
+   </type>
+   <type>
+      <name="=JS/src<strategy{ConcreteStrategyA.java[ConcreteStrategyA"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="297"/>
+      <y="389"/>
+   </type>
+   <type>
+      <name="=JS/src<strategy{Strategy.java[Strategy"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="371"/>
+      <y="69"/>
+   </type>
+   <type>
+      <name="=JS/src<strategy{Context.java[Context"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="66"/>
+      <y="58"/>
+   </type>
+   <relationship>
+      <class="edu.buffalo.cse.green.relationship.generalization.GeneralizationPart"/>
+      <sourceType="=JS/src<strategy{ConcreteStrategyA.java[ConcreteStrategyA"/>
+      <targetType="=JS/src<strategy{Strategy.java[Strategy"/>
+      <bendpoints>
+      </bendpoints>
+   </relationship>
+   <relationship>
+      <class="edu.buffalo.cse.green.relationship.generalization.GeneralizationPart"/>
+      <sourceType="=JS/src<strategy{ConcreteStrategyB.java[ConcreteStrategyB"/>
+      <targetType="=JS/src<strategy{Strategy.java[Strategy"/>
+      <bendpoints>
+      </bendpoints>
+   </relationship>
+</uml>
+

@@ -1,0 +1,46 @@
+<uml>
+   <greenVersion="30500"/>
+   <type>
+      <name="=JS/src<ReflectParams{SportFactory.java[SportFactory"/>
+      <height="148"/>
+      <width="256"/>
+      <x="428"/>
+      <y="47"/>
+   </type>
+   <type>
+      <name="=JS/src<ReflectParams{ISport.java[ISport"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="60"/>
+      <y="70"/>
+   </type>
+   <type>
+      <name="=JS/src<ReflectParams{Football.java[Football"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="59"/>
+      <y="240"/>
+   </type>
+   <type>
+      <name="=JS/src<ReflectParams{Badminton.java[Badminton"/>
+      <height="-1"/>
+      <width="-1"/>
+      <x="312"/>
+      <y="242"/>
+   </type>
+   <relationship>
+      <class="edu.buffalo.cse.green.relationship.realization.RealizationPart"/>
+      <sourceType="=JS/src<ReflectParams{Badminton.java[Badminton"/>
+      <targetType="=JS/src<ReflectParams{ISport.java[ISport"/>
+      <bendpoints>
+      </bendpoints>
+   </relationship>
+   <relationship>
+      <class="edu.buffalo.cse.green.relationship.realization.RealizationPart"/>
+      <sourceType="=JS/src<ReflectParams{Football.java[Football"/>
+      <targetType="=JS/src<ReflectParams{ISport.java[ISport"/>
+      <bendpoints>
+      </bendpoints>
+   </relationship>
+</uml>
+

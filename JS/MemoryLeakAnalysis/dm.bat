@@ -1,0 +1,1 @@
+jmap -dump:file=test.bin 10836
