@@ -1,6 +1,7 @@
 eclipse.preferences.version=1
 encoding//src/adapter/Client.java=UTF-8
 encoding//src/adapter/ForeignPlayer.java=UTF-8
+encoding//src/interview/OuterTest.java=UTF-8
 encoding//src/multithread/SemaphoreABC.java=UTF-8
 encoding//src/multithread/waitNotifyABC.java=UTF-8
 encoding//src/prototype/ConcretePrototype1.java=UTF-8

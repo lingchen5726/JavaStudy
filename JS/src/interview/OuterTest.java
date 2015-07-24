@@ -42,7 +42,7 @@ public class OuterTest {
             bytes UTF-16' size: 8
             bytes Unicode' size: 8
          * */
-        String str = "ABC你好";
+        String str = "ABCä½ å¥½";
         /*bytes Default' size: 9
             bytes GBK' size: 7
             bytes UTF-8' size: 9
@@ -63,7 +63,7 @@ public class OuterTest {
             
             String strUTF16back = new String(bytesUTF16, "UTF-16");
             System.out.println("strback is:"+strUTF16back);
-            char c = '你';
+            char c = '牛';
             String newStr = String.valueOf(c);
             byte[] bc = newStr.getBytes();
             System.out.println(bc.length);
